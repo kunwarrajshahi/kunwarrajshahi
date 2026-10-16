@@ -41,7 +41,7 @@ I'm a software developer with hands-on experience building mobile applications a
 ## 🔗 Connect With Me
 
 - **GitHub:** https://github.com/kunwarrajshahi
-- **LeetCode:** https://leetcode.com/u/Rajshahi/
+
 
 ---
 
